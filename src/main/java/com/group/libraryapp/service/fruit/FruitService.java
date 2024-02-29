@@ -1,4 +1,4 @@
 package com.group.libraryapp.service.fruit;
 
-public interface FuirtService {
+public interface FruitService {
 }
